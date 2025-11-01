@@ -203,4 +203,3 @@ Voici un exemple de l'exécution du programme (screenshot) :
 
  <img width="771" height="245" alt="image" src="https://github.com/user-attachments/assets/58996ab4-d11c-49bf-af14-da43488153bb" />
 
-#
