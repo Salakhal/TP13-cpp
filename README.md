@@ -4,20 +4,20 @@
 ```
 TP13/
 │
-├── Exercice1_ArrayDyn/
+├── Exercice1/
 │   ├── ArrayDyn.hpp        
 │   ├── Iterator.hpp        
 │   └── main.cpp            
 │
-├── Exercice2_Matrice/
+├── Exercice2/
 │   ├── Matrice.hpp        
 │   └── main.cpp            
 │
-├── Exercice3_Stack/
+├── Exercice3/
 │   ├── Stack.hpp           
 │   └── main.cpp           
 │
-├── Exercice4_FoncteurTri/
+├── Exercice4/
 │   ├── SortFunctor.hpp     
 │   ├── main.cpp        
 │             
@@ -78,7 +78,8 @@ Array Point: (1,2) (3,4)
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-<img width="533" height="115" alt="image" src="https://github.com/user-attachments/assets/e5237811-f8fe-4464-ae7d-1ba7a7afd1a2" />
+
+<img width="572" height="113" alt="image" src="https://github.com/user-attachments/assets/a9a3ad01-3591-49d8-95c0-436448ab413b" />
 
 
 
@@ -123,7 +124,7 @@ Une classe template représentant une matrice statique de dimensions `N × M`.
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-<img width="371" height="585" alt="image" src="https://github.com/user-attachments/assets/6957ce61-0f27-4499-886f-28e0f747d9e0" />
+<img width="497" height="590" alt="image" src="https://github.com/user-attachments/assets/acdb59bf-e2e3-4300-82fd-fa3a44bcf5c5" />
 
 
 ## Exercice 3 : Pile générique sécurisée avec std::unique_ptr
@@ -173,8 +174,8 @@ Une pile (LIFO) générique stockant les éléments dans un tableau dynamique g�
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-<img width="766" height="394" alt="image" src="https://github.com/user-attachments/assets/b5a8801c-02f8-41d1-9799-6baf5ce97560" />
 
+<img width="676" height="389" alt="image" src="https://github.com/user-attachments/assets/4be70289-6b5b-46d0-8d8d-fad56629db54" />
 
 
 #  Exercice 4 : Foncteur générique de tri avec contraintes C++20 (Concepts)
@@ -201,5 +202,4 @@ Personne Desc: John(25) Salma(21) Alice(20)
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
- <img width="771" height="245" alt="image" src="https://github.com/user-attachments/assets/58996ab4-d11c-49bf-af14-da43488153bb" />
-
+<img width="695" height="201" alt="image" src="https://github.com/user-attachments/assets/6861aad3-abd8-43c6-b5a8-05e32e0198c0" />
